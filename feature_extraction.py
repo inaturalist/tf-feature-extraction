@@ -40,7 +40,6 @@ def extract_prelogits_fv(image_path):
         prelogits_op,
         { input_tensor: images }
     )
-    print(prelogits)
     return prelogits
 
 def main():
