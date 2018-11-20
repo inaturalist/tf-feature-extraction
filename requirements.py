@@ -1,0 +1,9 @@
+Flask==1.0.2
+Flask-WTF==0.14.2
+h5py==2.8.0
+numpy==1.15.4
+Pillow==5.3.0
+python-magic==0.4.15
+PyYAML==3.13
+scipy==1.1.0
+tensorflow==1.12.0
